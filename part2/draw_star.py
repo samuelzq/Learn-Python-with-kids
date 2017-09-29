@@ -1,3 +1,7 @@
+'''
+Draw a star
+'''
+
 from turtle import *
 color('red', 'yellow')
 begin_fill()
